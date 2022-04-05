@@ -18,4 +18,4 @@
 </p>
 
 [![Solved.ac
-waylake](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+waylake2003](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
