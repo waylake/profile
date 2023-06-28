@@ -16,4 +16,5 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
-[Blog](http://real-world-embedding.tistory.com)http://real-world-embedding.tistory.com)
+
+[Blog](http://real-world-embedding.tistory.com)
