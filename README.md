@@ -20,7 +20,7 @@
   <a href="https://davek.site" target="_blank">🚀 Portfolio</a>
 </p>
 
-<h3 align="center">🌟 Recommendations 🌟</h3>
+<h3 align="center">🌟 Introduce 🌟</h3>
 <ul>
   <li>I have 3 years of experience building and designing software. Currently, </li>
   <li>I love to work on web applications using technologies like React, Tailwind, Next.js, and more.</li>
