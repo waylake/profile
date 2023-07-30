@@ -1,16 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello!%20I'm%20Doyeon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-<style>
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-div svg {
-  animation: rotate 2s linear infinite;
-}
-</style>
-
 ---
 
 ## 👩‍💻 My Github Stats 👩‍💻
