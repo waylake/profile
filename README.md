@@ -35,7 +35,7 @@ My workflow is amplified by [Neovim](https://neovim.io/) , where Lua scripting a
 
 📩 *Interested in collaborations or tech discussions? Let's connect!*</div>
 ---
-### Enhanced Portfolio Description
+### Portfolio Description
 ---
 
 **Who I Am:**  As a dedicated Full Stack Developer with a keen focus on system engineering, my journey in back-end and front-end development spans over two years. My current passion lies in crafting cutting-edge web applications, utilizing advanced tools like React, Tailwind, Next.js, and Vite.
