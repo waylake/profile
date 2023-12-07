@@ -1,71 +1,51 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello!%20I'm%20Doyeon!&fontAlign=50&fontAlignY=40&fontSize=90&desc=Full-Stack%20Developer%20&%20Systems%20Engineer&descAlign=60&descAlignY=60&descSize=20&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=250&section=header&text=Hi,%20I%27m%20Doyeon!&fontAlign=50&fontAlignY=40&fontSize=90&desc=Innovative%20Full-Stack%20Developer%20&%20Systems%20Engineer&descAlign=60&descAlignY=60&descSize=20&fontColor=ffffff) 
 
-> 💬 _"Always be curious, always be learning."_
+> 💬 *"Embracing curiosity and perpetual learning in technology."*<div align="center">
 
-<div align="center">
+🔗 [Blog](https://blog.waylake.com/)  | [Portfolio](https://portfolio.waylake.com/)  | [Tistory](http://real-world-embedding.tistory.com/) </div>---
+## 👩‍💻 **GitHub Performance Insights**  👩‍💻<div align="center">
 
-🔗 [Blog](https://blog.waylake.com) | [Portfolio](https://portfolio.waylake.com) | [Tistory](http://real-world-embedding.tistory.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=waylake&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&border_radius=15) 
+</div>---
+## 🌐 **Technology & Expertise**  🌐<div align="center">
 
-</div>
+![Tech Stack Icons](https://skillicons.dev/icons?i=python,javascript,react,tailwind,materialui,docker,nginx,mysql,django,nodejs,jenkins) 
+</div>---
+## 🌟 **Professional Journey**  🌟
 
----
+As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3 years**  of hands-on experience, I excel in both backend operations and frontend designs. My forte includes seamless integration using **Docker** , proficient **Nginx**  configurations, and maintaining efficient CI/CD pipelines with Jenkins. In front-end development, my passion lies in creating engaging user experiences with **React** , **TailwindCSS** , and **Material UI** .
 
-## 👩‍💻 **GitHub Statistics** 👩‍💻
+🔍 Committed to constant skill enhancement, I stay abreast of the latest trends and technologies in the ever-evolving tech landscape.---
+## 🛠️ **Neovim: The Developer's Edge**  🛠️
 
-<div align="center">
+My workflow is amplified by [Neovim](https://neovim.io/) , where Lua scripting and [Packer](https://github.com/wbthomason/packer.nvim)  empower me to tailor my development environment uniquely.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=waylake&hide_title=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&border_radius=15)
+**📌 Key Plugins:**  
+- 🌅 [neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) 
+- 📈 [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) 
+- 🔭 [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) 
+- 📝 [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)<div align="center">
 
-</div>
+📩 *Interested in collaborations or tech discussions? Let's connect!*</div>---
+### Enhanced Portfolio Description---
 
----
+**Who I Am:**  As a dedicated Full Stack Developer with a keen focus on system engineering, my journey in back-end and front-end development spans over two years. My current passion lies in crafting cutting-edge web applications, utilizing advanced tools like React, Tailwind, Next.js, and Vite.
 
-## 📚 **Tech Stack & Skills** 📚
+**My Experience:**  Starting at Hansei Security High School and evolving into a System Engineer at Mediaiplus, I've developed a strong security foundation. This journey has deepened my understanding of software development and backend systems.
 
-<div align="center">
+**My Expertise:**  Specializing in Python and Node.js, I leverage frameworks like Next.js, Django, and Angular to build scalable, efficient software solutions. My forte includes creating robust backend systems, ensuring scalability and reliability.
 
-![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=Material-UI&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+**My Approach:**  Beyond technical proficiency, I value teamwork and effective communication. I thrive in collaborative environments, fostering innovation through diverse perspectives and dialogue.
 
-</div>
+**Let's Connect:**  For inquiries or potential collaborations, please feel free to reach out at [younger-dodder.0u@icloud.com](mailto:younger-dodder.0u@icloud.com) .---
+### Key Projects---
 
----
+**1. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - A daily insight into pharmacology, machine learning, and clinical trials.
 
-## 🌟 **About Me** 🌟
+**2. Image Upscaler API:**  [Image Upscaler](https://rapidapi.com/i2000i/api/image-upsclaer)  - A cutting-edge API for image upscaling and encryption.
 
-🌱 A **Full-Stack Developer** and a **Systems Engineer**, I wear multiple hats. With over **3 years** in the industry, I've mastered **Docker** and have a knack for setting up seamless **Nginx** configurations. As a Jenkins administrator, I ensure our CI/CD pipelines run without a hitch, focusing on optimizing developer workflows and maximizing efficiency. My interests also span to domain management and ensuring robust infrastructural designs.
+**3. MBTI Type Test:**  [MBTI Waylake](https://mbti.waylake.com/)  - Discover the career that best suits your MBTI type.
 
-On the frontend side, my passion for design translates to crafting aesthetically pleasing user interfaces using tools like **React**, **TailwindCSS**, and **Material UI**.
+**4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Generate QR codes and synthesize images with embedded QR codes.---
 
-🔍 With an ever-curious mind, I am constantly updating my skills, ensuring I stay ahead in the dynamic world of tech.
-
----
-
-## 🛠️ **Neovim & Dotfile Configuration** 🛠️
-
-My love for efficient tooling is evident in my choice of [Neovim](https://neovim.io/) as my text editor. Lua scripting offers endless customization, and [Packer](https://github.com/wbthomason/packer.nvim) is my go-to for plugin management.
-
-**📌 Essential Plugins:**
-
-- 🔆 [**neosolarized.nvim**](https://github.com/svrana/neosolarized.nvim)
-- 📊 [**lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim)
-- 🧭 [**telescope.nvim**](https://github.com/nvim-telescope/telescope.nvim)
-- 📝 [**markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim)
-
-... and a plethora of others that boost my productivity during coding sessions.
-
-<div align="center">
-
-📩 _Feel free to get in touch for projects, collaborations, or just some tech chat._
-
-</div>
-
+This revised format aims to present your profile and portfolio in a more polished and professional manner, highlighting your skills, experiences, and projects effectively.
