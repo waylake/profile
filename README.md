@@ -22,18 +22,7 @@
 As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3 years**  of hands-on experience, I excel in both backend operations and frontend designs. My forte includes seamless integration using **Docker** , proficient **Nginx**  configurations, and maintaining efficient CI/CD pipelines with Jenkins. In front-end development, my passion lies in creating engaging user experiences with **React** , **TailwindCSS** , and **Material UI** .
 
 🔍 Committed to constant skill enhancement, I stay abreast of the latest trends and technologies in the ever-evolving tech landscape.
----
-## 🛠️ **Neovim: The Developer's Edge**  🛠️
 
-My workflow is amplified by [Neovim](https://neovim.io/) , where Lua scripting and [Packer](https://github.com/wbthomason/packer.nvim)  empower me to tailor my development environment uniquely.
-
-**📌 Key Plugins:**  
-- 🌅 [neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) 
-- 📈 [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) 
-- 🔭 [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) 
-- 📝 [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)<div align="center">
-
-📩 *Interested in collaborations or tech discussions? Let's connect!*</div>
 ---
 ### Portfolio Description
 ---
@@ -60,3 +49,16 @@ My workflow is amplified by [Neovim](https://neovim.io/) , where Lua scripting a
 **4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Generate QR codes and synthesize images with embedded QR codes.
 
 **5. Pharmacology for us:** [Pharm for us](https://pharmforus.com/) - Get the Pharmacological insight and helpful Recommendation system will assist PhD.
+
+---
+## 🛠️ **Neovim: The Developer's Edge**  🛠️
+
+My workflow is amplified by [Neovim](https://neovim.io/) , where Lua scripting and [Packer](https://github.com/wbthomason/packer.nvim)  empower me to tailor my development environment uniquely.
+
+**📌 Key Plugins:**  
+- 🌅 [neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) 
+- 📈 [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) 
+- 🔭 [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) 
+- 📝 [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)<div align="center">
+
+📩 *Interested in collaborations or tech discussions? Let's connect!*</div>
