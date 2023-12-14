@@ -48,7 +48,6 @@ As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3
 
 **4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Generate QR codes and synthesize images with embedded QR codes.
 
-**5. Pharmacology for us:** [Pharm for us](https://pharmforus.com/) - Get the Pharmacological insight and helpful Recommendation system will assist PhD.
 
 ---
 ## 🛠️ **Neovim: The Developer's Edge**  🛠️
