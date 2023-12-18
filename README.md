@@ -48,7 +48,7 @@ As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3
 
 **4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Generate QR codes and synthesize images with embedded QR codes.
 
-**5. NestJS Login JWT: [github](https://github.com/waylake/nest-backend-login.git) - Login implemented by typeorm, mysql
+**5. NestJS Login JWT**: [github](https://github.com/waylake/nest-backend-login.git) - Login implemented by typeorm, mysql
 
 
 ---
