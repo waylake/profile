@@ -50,6 +50,8 @@ As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3
 
 **5. NestJS Login JWT**: [github](https://github.com/waylake/nest-backend-login.git) - Login implemented by typeorm, mysql
 
+**6. Deploy Manager**: [github](https://github.com/waylake/deploy-manager) - Simply deploy your project to the server.
+
 
 ---
 ## 🛠️ **Neovim: The Developer's Edge**  🛠️
