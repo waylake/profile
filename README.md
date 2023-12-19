@@ -2,7 +2,7 @@
 
 > 💬 *"Embracing curiosity and perpetual learning in technology."*<div align="center">
 
-[Portfolio 2024 Version](https://portfolio.waylake.com/) | [Portfolio 2023 Version](https://portfolio.waylake.com/)  | [Tistory](http://real-world-embedding.tistory.com/) </div>
+[Portfolio 2024 Version](https://portfolio2.waylake.com/) | [Portfolio 2023 Version](https://portfolio.waylake.com/)  | [Tistory](http://real-world-embedding.tistory.com/) </div>
 ---
 
 ## 👩‍💻 **GitHub Performance Insights**  👩‍💻<div align="center">
