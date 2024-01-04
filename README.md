@@ -40,7 +40,7 @@ As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3
 ### Key Projects
 ---
 
-**1. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - A daily insight into pharmacology, machine learning, and clinical trials.
+**1. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - A daily insight into pharmacology, machine learning, and clinical trials by AI ChatBot.
 
 **2. Image Upscaler API:**  [Image Upscaler](https://rapidapi.com/i2000i/api/image-upsclaer)  - A cutting-edge API for image upscaling and encryption.
 
