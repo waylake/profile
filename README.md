@@ -1,7 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=250&section=header&text=Hi,%20I%27m%20Doyeon!&fontAlign=50&fontAlignY=40&fontSize=90&desc=Full-Stack%20Developer%20and%20System%20Engineer&descAlign=60&descAlignY=60&descSize=20&fontColor=ffffff) 
 
-> 💬 *"Embracing curiosity and perpetual learning in technology."*<div align="center">
-
 [Portfolio 2024 Version](https://portfolio2.waylake.com/) | [Portfolio 2023 Version](https://portfolio.waylake.com/)  | [Tistory](https://real-world-embedding.tistory.com/) </div>
 ---
 
@@ -17,51 +15,50 @@
 
 ---
 
-## 🌟 **Professional Journey**  🌟
+## 🌟 **Introduce**  🌟
 
-As a versatile **Full-Stack Developer**  and **Systems Engineer**  with over **3 years**  of hands-on experience, I excel in both backend operations and frontend designs. My forte includes seamless integration using **Docker** , proficient **Nginx**  configurations, and maintaining efficient CI/CD pipelines with Jenkins. In front-end development, my passion lies in creating engaging user experiences with **React** , **TailwindCSS** , and **Material UI** .
+React, Next.js, Python, Nest.js, FastAPI, Express, Node.js 등 다양한 기술을 활용하여 개인 프로젝트들을 진행하고 있습니다.
+또한 Terraform 과 Ansible 을 이용하여 AWS 다양한 클라우드 인프라 구축 경험을 통해 DevOps 에 대한 이해를 높이고 있습니다.
 
-🔍 Committed to constant skill enhancement, I stay abreast of the latest trends and technologies in the ever-evolving tech landscape.
+🔍 지속적인 실력향상을 위해 끊임없이 발전하는 기술들 사이에서, 최신 트렌드와 기술을 파악하려고 노력하고 있습니다.
 
 ---
 ### Portfolio Description
 ---
 
-**Who I Am:**  As a dedicated Full Stack Developer with a keen focus on system engineering, my journey in back-end and front-end development spans over two years. My current passion lies in crafting cutting-edge web applications, utilizing advanced tools like React, Tailwind, Next.js, and Vite.
+한세 사이버 보안 고등학교에서 배웠던 프로그래밍에 대한 지식, 서버 보안에 대한 지식등을 가지고 현제 메디아이플러스에서 시스템엔지니어로 일하고 있습니다.
+시스템 엔지니어링을 통하여 풀스택개발에 관심이 생겼고,
+현재는 진행하였던 프로젝트들을 블로그에 포스팅하며 어려운 점들과 도움이 되는 정보들과 새로운 기술, 인사이트에 대해서 공유하고 있습니다.
 
-**My Experience:**  Starting at Hansei Security High School and evolving into a System Engineer at Mediaiplus, I've developed a strong security foundation. This journey has deepened my understanding of software development and backend systems.
+문의 및 협업은 언제든지 [younger-dodder.0u@icloud.com](mailto:younger-dodder.0u@icloud.com) 로 문의 바랍니다.
 
-**My Expertise:**  Specializing in Python and Node.js, I leverage frameworks like Next.js, Django, and Angular to build scalable, efficient software solutions. My forte includes creating robust backend systems, ensuring scalability and reliability.
-
-**My Approach:**  Beyond technical proficiency, I value teamwork and effective communication. I thrive in collaborative environments, fostering innovation through diverse perspectives and dialogue.
-
-**Let's Connect:**  For inquiries or potential collaborations, please feel free to reach out at [younger-dodder.0u@icloud.com](mailto:younger-dodder.0u@icloud.com) .
 ---
 ### Key Projects
 ---
 
-**1. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - A daily insight into pharmacology, machine learning, and clinical trials by AI ChatBot.
+**1. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - LLM 모델을 사용하여, 매일 임상시험 관련 뉴스 블로그를 작성하는 사이트
 
-**2. Image Upscaler API:**  [Image Upscaler](https://rapidapi.com/i2000i/api/image-upsclaer)  - A cutting-edge API for image upscaling and encryption.
+**2. Deploy Manager**: [github](https://github.com/waylake/deploy-manager) - Shell script 를 사용한 Deploy 도구.
 
-**3. MBTI Type Test:**  [MBTI Waylake](https://mbti.waylake.com/)  - Discover the career that best suits your MBTI type.
+**3. Image Upscaler API:**  [Image Upscaler](https://rapidapi.com/i2000i/api/image-upsclaer)  - 이미지 업스케일 백엔드 구현
 
-**4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Generate QR codes and synthesize images with embedded QR codes.
+**4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Text to Image 모델을 사용하여 QR 코드 생성하는 백엔드 구현.
 
-**5. NestJS Login JWT**: [github](https://github.com/waylake/nest-backend-login.git) - Login implemented by typeorm, mysql
+**5. NestJS Login JWT**: [github](https://github.com/waylake/nest-backend-login.git) - JWT, TypeORM 를 활용한 NestJS 로그인 백엔드 구현.
 
-**6. Deploy Manager**: [github](https://github.com/waylake/deploy-manager) - Simply deploy your project to the server.
+#### Toy Projects
 
+**6. MBTI Type Test:**  [MBTI Waylake](https://mbti.waylake.com/)  - MBTI 사이트
 
 ---
-## 🛠️ **Neovim: The Developer's Edge**  🛠️
 
-My workflow is amplified by [Neovim](https://neovim.io/) , where Lua scripting and [Packer](https://github.com/wbthomason/packer.nvim)  empower me to tailor my development environment uniquely.
+## 🛠️ **Neovim**  🛠️
 
-**📌 Key Plugins:**  
+[Neovim](https://neovim.io/) ,[Packer](https://github.com/wbthomason/packer.nvim): Neovim 과 Lua 를 사용한 vim dotfile 의 주요 플러그인
+
+**📌 Plugins:**  
 - 🌅 [neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) 
 - 📈 [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) 
 - 🔭 [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) 
 - 📝 [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)<div align="center">
 
-📩 *Interested in collaborations or tech discussions? Let's connect!*</div>
