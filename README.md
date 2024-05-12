@@ -44,8 +44,6 @@ React, Next.js, Python, Nest.js, FastAPI, Express, Node.js 등 다양한 기술�
 
 **4. QR Code Generator API:**  [QRCode60](https://rapidapi.com/i2000i/api/qrcode60)  - Text to Image 모델을 사용하여 QR 코드 생성하는 백엔드 구현.
 
-**5. NestJS Login JWT**: [github](https://github.com/waylake/nest-backend-login.git) - JWT, TypeORM 를 활용한 NestJS 로그인 백엔드 구현.
-
 #### Toy Projects
 
 **6. MBTI Type Test:**  [MBTI Waylake](https://mbti.waylake.com/)  - MBTI 사이트
