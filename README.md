@@ -36,7 +36,7 @@ React, Next.js, Python, Nest.js, FastAPI, Express, Node.js 등 다양한 기술�
 ### Key Projects
 ---
 
-**1. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - LLM 모델을 사용하여, 매일 임상시험 관련 뉴스 블로그를 작성하는 사이트
+**1. Express Image Server**: [github](https://github.com/waylake/express-image-server) - TypeScript, Express, Memory-Cache 및 MongoDB 를 활용한 이미지 서버.
 
 **2. Deploy Manager**: [github](https://github.com/waylake/deploy-manager) - Shell script 를 사용한 Deploy 도구.
 
@@ -47,6 +47,9 @@ React, Next.js, Python, Nest.js, FastAPI, Express, Node.js 등 다양한 기술�
 #### Toy Projects
 
 **6. MBTI Type Test:**  [MBTI Waylake](https://mbti.waylake.com/)  - MBTI 사이트
+
+**7. Clinical Trials Blogging:**  [Real-World Embedding](http://real-world-embedding.tistory.com/)  - LLM 모델을 사용하여, 매일 임상시험 관련 뉴스 블로그를 작성하는 사이트
+
 
 ---
 
