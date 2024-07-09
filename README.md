@@ -17,14 +17,6 @@
 
 ## 🌟 **Introduce**  🌟
 
-React, Next.js, Python, Nest.js, FastAPI, Express, Node.js 등 다양한 기술을 활용하여 개인 프로젝트들을 진행하고 있습니다.
-또한 Terraform 과 Ansible 을 이용하여 AWS 다양한 클라우드 인프라 구축 경험을 통해 DevOps 에 대한 이해를 높이고 있습니다.
-
-🔍 지속적인 실력향상을 위해 끊임없이 발전하는 기술들 사이에서, 최신 트렌드와 기술을 파악하려고 노력하고 있습니다.
-
----
-### Portfolio Description
----
 안녕하세요 다양한 경험을 공유하며 배우는 황도연입니다
 React Nextjs Python Nestjs FastAPI Express Nodejs 등 다양한 기술을 활용하여 프로젝트들을 진
 행하고 있습니다
