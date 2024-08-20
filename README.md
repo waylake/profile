@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=250&section=header&text=Hi,%20I%27m%20Doyeon!&fontAlign=50&fontAlignY=40&fontSize=90&desc=Full-Stack%20Developer%20and%20System%20Engineer&descAlign=60&descAlignY=60&descSize=20&fontColor=ffffff) 
 
+
+[About](https://about.waylake.com/) </div>
 [Blog](https://dev.waylake.com/) </div>
 ---
 
