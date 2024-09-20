@@ -26,8 +26,3 @@ React Nextjs Python Nestjs FastAPI Express Nodejs 등 다양한 기술을 활용
 행하고 있습니다
 또한 Terraform 과 Ansible 을 이용하여 AWS 다양한 클라우드 인프라 구축 경험을 통해 DevOps 에 대한
 이해를 높이고 있습니다.
-
-현재 산업기능요원으로 전직 대기중에 있습니다
-회사의 자금난으로 많은 직원들이 퇴사하였고 저도 함께 퇴사하게 되었습니다
-산업기능요원 이후에도 근무를 이어갈 수 있는 회사를 찾고 있습니다
-
